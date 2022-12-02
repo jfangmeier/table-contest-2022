@@ -1,0 +1,4 @@
+- source: amtrak-table.qmd
+  quarto-pub:
+    - id: 538cff3c-93f8-4b61-af2e-84c2b89cfb47
+      url: 'https://quartopub.com/sites/joshfangmeier/table-contest-2022'
