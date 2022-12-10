@@ -2,3 +2,7 @@
   quarto-pub:
     - id: 538cff3c-93f8-4b61-af2e-84c2b89cfb47
       url: 'https://quartopub.com/sites/joshfangmeier/table-contest-2022'
+- source: amtrak-table-standalone.qmd
+  quarto-pub:
+    - id: 30946ea7-9cd9-41f6-9b6b-8e9cbdd6547b
+      url: 'https://quartopub.com/sites/joshfangmeier/table-contest-2022---amtrak-passenger-rail-system'
